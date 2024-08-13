@@ -391,16 +391,16 @@ $result = $conn->query($sql);
 		</div>
 		<div class="col-lg-3">
 			<h3>About Us</h3>
-			<p>Rahamat-E-Elahi, CUET ID-1304054</p>
-			<p>Shovagata Sarker Borno, CUET ID-1304041</p>
-			<p>Md. Sharifullah, CUET ID-1304049</p>
-			<p>&copy 2018</p>
+			<p>Banditry Studios</p>
+			<p>Made with ♥︎ by Bandity Studios</p>
+			<p>Nairobi, Kenya</p>
+			<p>&copy 2024</p>
 		</div>
 		<div class="col-lg-3">
 			<h3>Contact Us</h3>
-			<p>Chittagong University of Engineering and Technology</p>
-			<p>Chittagong, Bangladesh</p>
-			<p>&copy CUET 2018</p>
+			<p>Catholic University of Eastern Africa</p>
+			<p>Langata, Nairobi</p>
+			<p>&copy CUEA 2024</p>
 		</div>
 		<div class="col-lg-3">
 			<h3>Social Contact</h3>
